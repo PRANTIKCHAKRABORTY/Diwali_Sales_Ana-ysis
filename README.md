@@ -24,6 +24,7 @@ Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Jupyter Not
 
 
 Contact
+
 For any questions or further information, please contact prantik4.chakraborty@gmail.com.
 
 Feel free to adjust the technologies, data sources, or other details to match your specific project!
