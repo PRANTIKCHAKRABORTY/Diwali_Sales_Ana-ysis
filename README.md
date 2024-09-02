@@ -7,9 +7,13 @@ Welcome to the Diwali Sales Analysis Project! This repository contains a compreh
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Features
 Data Collection: Aggregated sales data from multiple sources including online and offline channels.
+
 Data Cleaning: Scripts for preprocessing and cleaning raw sales data.
+
 Exploratory Data Analysis (EDA): Visualizations and statistical analysis to understand sales patterns, seasonal trends, and customer preferences.
+
 Sales Forecasting: Predictive models to forecast future sales trends based on historical data.
+
 Marketing Impact Analysis: Evaluation of the effectiveness of marketing campaigns and promotional offers during the festival.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
