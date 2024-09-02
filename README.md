@@ -2,6 +2,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Overview
+
 Welcome to the Diwali Sales Analysis Project! This repository contains a comprehensive analysis of sales data collected during the Diwali festival. The project aims to uncover insights and trends in consumer behavior, sales performance, and marketing effectiveness during one of the most significant shopping periods of the year.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
